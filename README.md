@@ -21,5 +21,5 @@ npm install
 
 To start the server -
 ```
-npm run star
+npm run start
 ```
